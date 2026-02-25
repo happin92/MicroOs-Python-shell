@@ -50,10 +50,13 @@ pfetch
 
 
 ## Файловая система
-Операции с файлами обрабатываются в [fs.py](https://github.com/happin92/MicroOs-Python-shell/main/fs.py) с помощью библиотек shutil и os
+Операции с файлами обрабатываются в [fs.py](https://github.com/happin92/MicroOs-Python-shell/blob/main/fs.py) с помощью библиотек shutil и os
 
 ### Просмотр текущей дериктории
 ```MicroOs
 pwd
 ```
-В строке приглашения тоже указан текущий каталог но команда **pwd** позволяет посмотреть его более детально
+В строке приглашения тоже указан текущий каталог но команда `pwd` позволяет посмотреть его более детально
+
+
+*Made with ❤️ by [happiness](https://github.com/happin92)*
