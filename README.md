@@ -109,8 +109,6 @@ run "НАЗВАНИЕ PYTHON СКРИПТА"
 ```MicroOs
 mop list
 ```
-Список всех программ которые находяться в репозитории [пакетного менеджера] и доступные для скачивания
-
-
+Список всех программ которые находяться в репозитории [пакетного менеджера](https://github.com/happin92/MicroOs-Packet-manager/blob/main) и доступные для скачивания
 
 *Made with ❤️ by [happiness](https://github.com/happin92)*
